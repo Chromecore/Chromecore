@@ -5,8 +5,6 @@
 
 <img align="right" alt="Chromecore" width="400" src="https://s3.amazonaws.com/preview.thegamecrafter.com/3995D55A-4535-11EE-BF1D-E5714E7FE1DB.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chromecore&label=Profile%20views&color=0e75b6&style=flat" alt="chromecore" /> </p>
-
 - 👨‍💻 Profile [https://tayin-wallace.netlify.app/](https://tayin-wallace.netlify.app/)
 
 - 📫 Email **chromecoredev@outlook.com**
