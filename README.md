@@ -5,11 +5,9 @@
 
 <img align="right" alt="Chromecore" width="400" src="https://s3.amazonaws.com/preview.thegamecrafter.com/3995D55A-4535-11EE-BF1D-E5714E7FE1DB.png">
 
-- 👨‍💻 Profile [https://tayin-wallace.netlify.app/](https://tayin-wallace.netlify.app/)
+- 👨‍💻 Profile [https://tayin-wallace.dev](https://tayinwallace.dev)
 
 - 📫 Email **chromecoredev@outlook.com**
-
-- 📄 Resume [https://tayin-wallace.netlify.app/Assets/Tayin%20Wallace%20Resume%20Portfolio.pdf](https://tayin-wallace.netlify.app/Assets/Tayin%20Wallace%20Resume%20Portfolio.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
