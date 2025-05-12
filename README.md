@@ -5,7 +5,7 @@
 
 <img align="right" alt="Chromecore" width="400" src="https://s3.amazonaws.com/preview.thegamecrafter.com/3995D55A-4535-11EE-BF1D-E5714E7FE1DB.png">
 
-- 👨‍💻 Profile [https://tayin-wallace.dev](https://tayinwallace.dev)
+- 👨‍💻 Profile [https://tayinwallace.dev](https://tayinwallace.dev)
 
 - 📫 Email **chromecoredev@outlook.com**
 
